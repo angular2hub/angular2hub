@@ -1,7 +1,7 @@
-Last commit:
-Source: https://github.com/rogerpadilla/angular2-minimalist-starter
-commit: 1ecfe87e1b7731d4fa919f215c5c55f70de0956f
-Date:   Wed Dec 30 18:18:38 2015 -0500
+Source: https://github.com/rogerpadilla/angular2-minimalist-starter    
+Last commit:    
+  commit: 1ecfe87e1b7731d4fa919f215c5c55f70de0956f    
+  Date:   Wed Dec 30 18:18:38 2015 -0500
 
 # Angular2 Minimalist Starter
 
